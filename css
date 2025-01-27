@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            #para1 {
+                color: green;
+
+            }
+        </style>
+    </hesd>
+    <body>
+
+        <p id ="para1">this is paragraph</p>
+        <h1 class="heading">this is heading 1</h1>
+        <h2 class="heading">this is heading 2</h2>
+    </body>
+</html>
